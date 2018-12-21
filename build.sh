@@ -1,3 +1,3 @@
 #!/bin/bash
-yum install ntp -y
+yum install samba -y
 
